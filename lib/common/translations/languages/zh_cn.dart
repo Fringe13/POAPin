@@ -8,16 +8,23 @@ class ZhCNTranslations {
 
         /// Tabs
         // Strings.home: 'Home',
+           Strings.home: '主页',
         // Strings.watchlist: 'Watchlist',
+           Strings.watchlist: '观察列表',
         // Strings.me: 'Me',
+           Strings.me: '我的',
 
         /// Home(Initial state)
         // Strings.enjoy: 'Enjoy a life with POAP',
-        // Strings.setAddress:
+           Strings.enjoy: '开启POAP之旅',
+        // Strings.setAddress
         //     'Set your address and you\'ll see your POAPs on the home page',
         // Strings.setEthAddress: 'Set ETH address',
+           Strings.setEthAddress: '设置ETH地址',
         // Strings.ethAddressOrEns: 'ETH address or ENS',
+           Strings.ethAddressOrEns: 'ETH地址或ENS域名',
         // Strings.invalidAddress: 'Invalid address',
+           Strings.invalidAddress: '错误地址格式',
 
         /// Home(empty)
         // Strings.noPOAP:
@@ -25,7 +32,9 @@ class ZhCNTranslations {
 
         /// Home(available)
         // Strings.events: 'Events',
+           Strings.events: '事件',
         // Strings.poaps: 'POAPs',
+           Strings.poaps: 'POAPs',
         // Strings.growth: 'growth',
         // Strings.monthly: 'monthly',
         // Strings.filterHint: 'Filter by name, description, location, etc.',
