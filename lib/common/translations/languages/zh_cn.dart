@@ -8,16 +8,23 @@ class ZhCNTranslations {
 
         /// Tabs
         // Strings.home: 'Home',
+            Strings.home: '主页',
         // Strings.watchlist: 'Watchlist',
+            Strings.watchlist: '观察列表',
         // Strings.me: 'Me',
+            Strings.me: '我的',
 
         /// Home(Initial state)
         // Strings.enjoy: 'Enjoy a life with POAP',
+            Strings.enjoy: '开启POAP之旅',
         // Strings.setAddress:
         //     'Set your address and you\'ll see your POAPs on the home page',
         // Strings.setEthAddress: 'Set ETH address',
+            Strings.setEthAddress: '设置ETH地址',
         // Strings.ethAddressOrEns: 'ETH address or ENS',
+            Strings.ethAddressOrEns: 'ETH地址或ENS域名',
         // Strings.invalidAddress: 'Invalid address',
+            Strings.invalidAddress: '格式错误',
 
         /// Home(empty)
         // Strings.noPOAP:
@@ -25,13 +32,19 @@ class ZhCNTranslations {
 
         /// Home(available)
         // Strings.events: 'Events',
+            Strings.events: '事件',
         // Strings.poaps: 'POAPs',
+            Strings.poaps: 'POAP',
         // Strings.growth: 'growth',
+            Strings.growth: '增长',
         // Strings.monthly: 'monthly',
+            Strings.monthly: '月度',
         // Strings.filterHint: 'Filter by name, description, location, etc.',
         // --- Prefs
         // Strings.sort: 'Sort',
+            Strings.sort: '分类',
         // Strings.newest: 'Newest',
+            Strings.newest: 'Newest',
         // Strings.oldest: 'Oldest',
         // Strings.shape: 'Shape',
         // Strings.square: 'Square',
@@ -102,20 +115,35 @@ class ZhCNTranslations {
 
         /// Common
         // Strings.done: 'Done',
+            Strings.done: '完成',
         // Strings.alert: 'Alert',
+            Strings.alert: '警报',
         // Strings.error: 'Error',
+            Strings.error: '错误',
         // --- Months
         // Strings.january: 'January',
+            Strings.january: '一月',
         // Strings.february: 'February',
+            Strings.february: '二月',
         // Strings.march: 'March',
+            Strings.february: '三月',
         // Strings.april: 'April',
+            Strings.february: '四月',
         // Strings.may: 'May',
+            Strings.february: '五月',
         // Strings.june: 'June',
+            Strings.february: '六月',
         // Strings.july: 'July',
+            Strings.february: '七月',
         // Strings.august: 'August',
+            Strings.february: '八月',
         // Strings.september: 'September',
+            Strings.february: '九月',
         // Strings.october: 'October',
+            Strings.february: '十月',
         // Strings.november: 'November',
+            Strings.february: '十一月',
         // Strings.december: 'December',
+            Strings.february: '十二月',
       };
 }
